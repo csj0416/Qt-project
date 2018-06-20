@@ -1,0 +1,23 @@
+E:\Qt-Project\chenshuai_QT\android-build\bin\QtApp-debug-unaligned.apk : \
+E:\Qt-Project\chenshuai_QT\android-build\bin\QtApp.ap_ \
+E:\Qt-Project\chenshuai_QT\android-build\bin\classes.dex \
+E:\Qt-Project\chenshuai_QT\android-build\libs\QtAndroid-bundled.jar \
+E:\Qt-Project\chenshuai_QT\android-build\libs\QtAndroidBearer-bundled.jar \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\gdbserver \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libchenshuai_QT.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libgdbserver.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libgnustl_shared.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_bearer_libqandroidbearer.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_imageformats_libqgif.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_imageformats_libqicns.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_imageformats_libqico.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_imageformats_libqjpeg.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_imageformats_libqtga.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_imageformats_libqtiff.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_imageformats_libqwbmp.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_imageformats_libqwebp.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libplugins_platforms_android_libqtforandroid.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libQt5Core.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libQt5Gui.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libQt5Network.so \
+E:\Qt-Project\chenshuai_QT\android-build\libs\armeabi-v7a\libQt5Widgets.so \
